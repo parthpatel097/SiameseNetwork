@@ -1,3 +1,1 @@
 # SiameseNetwork
-
-Similarity between images.
